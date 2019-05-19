@@ -1,3 +1,4 @@
+const Bots = require('./bot')
 function DigitalAssistant() { }
 
 DigitalAssistant.prototype = {

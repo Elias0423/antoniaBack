@@ -4,8 +4,10 @@
   "description": "simple file server",
   "main": "server.js",
   "dependencies": {
+    "@oracle/bots-node-sdk": "^2.1.6",
     "express": "^4.16.2",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {},
   "scripts": {
